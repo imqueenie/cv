@@ -1,7 +1,6 @@
 # QUEENIE LI
-* 11 Hartwood Ave, Williams Landing
 * hi@imqueenie.com
-* 0401236500
+* [imqueenie.github.io](https://imqueenie.github.io)
 
 ## Summary
 Highly skilled and motivated Data Analyst with 5 years experience and in-depth knowledge in various database technologies, reporting tools, data visualization and big data looking for new career challenges.
